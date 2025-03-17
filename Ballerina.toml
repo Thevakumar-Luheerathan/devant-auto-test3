@@ -1,0 +1,4 @@
+[package]
+org = "wsodevant"
+name = "devant_auto_test3_ci"
+version = "0.1.0"
